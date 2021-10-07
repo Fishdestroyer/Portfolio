@@ -1,6 +1,6 @@
 header {
     padding: 25px 35px;
-    background-color: maroon;
+    background-color: white;
     text-align: center;
     font-size: 30px;
 
@@ -8,8 +8,14 @@ header {
 
 
 body {
-    background-color: hotpink;
+    background-color: white;
+    flex: wrap;
+
     
+}
+
+Img {
+    text-align: justify;
 }
 
 

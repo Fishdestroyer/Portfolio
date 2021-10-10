@@ -1,3 +1,13 @@
+.root {
+    border: rgb(241, 236, 236);
+    border-top: thin;
+    border-left: thick;
+    border-right: thick;
+    border-bottom: solid;
+
+}
+
+
 header {
     padding: 25px 35px;
     color: tan;
@@ -11,8 +21,15 @@ header {
 display: block;
 margin-left: auto;
 margin-right: auto;
-width: 25%;
+width: 100%;
 }
+
+.projects {
+    color: white;
+    
+}
+
+
 
 
 body {

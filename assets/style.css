@@ -1,3 +1,4 @@
+
 .root {
     border: rgb(241, 236, 236);
     border-top: thin;
@@ -27,6 +28,12 @@ width: 100%;
 .projects {
     color: white;
     
+}
+
+img {
+    border-color: rgb(121, 7, 7);
+    border-width: thin;
+
 }
 
 

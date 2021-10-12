@@ -13,9 +13,25 @@ header {
     padding: 25px 35px;
     color: tan;
     background-color: black;
-    text-align: center;
-    font-size: 30px;
+    text-align: left;
+    font-size: 20px;
 
+}
+
+
+header nav {
+    float: right;
+    margin: 5px;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li {
+    margin: 0 15px;
+    font-weight: light;
+    font-size: 15px;
 }
 
 .center {
@@ -36,6 +52,10 @@ img {
 
 }
 
+div {
+    display: block;
+}
+
 
 
 
@@ -48,7 +68,7 @@ body {
 
 
 h1 {
-    text-align: center;
+    text-align: left;
     font-size: larger;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }

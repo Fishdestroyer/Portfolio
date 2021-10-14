@@ -72,14 +72,21 @@ h1 {
     font-size: larger;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
+/*
 p {
+    text-align: center;
     display: inline-block;
     margin: 0 auto;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     flex-wrap: wrap;
 }
+*/
 
+p {
+    text-align: center;
+    font-size: medium;
+    font-family: cursive;
+}
 h2 {
     text-align: center;
     font-size: large;
